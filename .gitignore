@@ -1,6 +1,6 @@
-.DS_Store
-.gitignore
-.terraform.lock.hcl
+DS_Store
+gitignore
+terraform.lock.hcl
 
 
 
